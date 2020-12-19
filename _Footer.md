@@ -1,4 +1,6 @@
-如果遇到问题，欢迎提交 [Issue](https://github.com/NKID00/GuideToKSPModMaking/issues) 或者 [Pull Request](https://github.com/NKID00/GuideToKSPModMaking/pulls)。
+请点击右侧的目录来进一步阅读吧。
+
+如果发现错误或者遇到问题，欢迎提交 [Issue](https://github.com/NKID00/GuideToKSPModMaking/issues) 或者 [Pull Request](https://github.com/NKID00/GuideToKSPModMaking/pulls)。
 
 版权所有 © NKID00 2020
 

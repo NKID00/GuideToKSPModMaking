@@ -2,19 +2,7 @@
 
 - [理论基础](https://github.com/NKID00/GuideToKSPModMaking/wiki/理论基础)
 
-- 制作部件
-
-  - 开发环境
-
-  - 建模
-  
-  - 添加贴图
-  
-  - 添加法线贴图
-  
-  - 使用 PartTools 编译
-  
-  - 编写 CFG 文件
+- [制作部件](https://github.com/NKID00/GuideToKSPModMaking/wiki/制作部件)
 
 - 修改游戏逻辑
 

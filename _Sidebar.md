@@ -4,9 +4,9 @@
 
 - [制作部件](https://github.com/NKID00/GuideToKSPModMaking/wiki/制作部件)
 
-- 修改游戏逻辑
+- [修改游戏逻辑](https://github.com/NKID00/GuideToKSPModMaking/wiki/修改游戏逻辑)
 
-  - 开发环境
+  - [开发环境](https://github.com/NKID00/GuideToKSPModMaking/wiki/开发环境)
 
   - 使用 Module Manager 修改原有逻辑
   

@@ -1,6 +1,6 @@
 - [欢迎](https://github.com/NKID00/GuideToKSPModMaking/wiki)
 
-- [理论基础](https://github.com/NKID00/GuideToKSPModMaking/wiki/理论基础)
+- [基础知识](https://github.com/NKID00/GuideToKSPModMaking/wiki/基础知识)
 
 - [制作部件](https://github.com/NKID00/GuideToKSPModMaking/wiki/制作部件)
 

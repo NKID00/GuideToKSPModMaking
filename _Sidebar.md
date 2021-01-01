@@ -12,6 +12,6 @@
   
   - 编写新的逻辑
 
-- [版权和许可证](https://github.com/NKID00/GuideToKSPModMaking/wiki/版权和许可证)
+- [版权和许可证](./版权和许可证)
 
 （没有链接的页面正在施工）

@@ -10,10 +10,10 @@
 
 ### 请前往 [Wiki](https://github.com/NKID00/GuideToKSPModMaking/wiki) 来进一步阅读。
 
-如果想要离线查看指南，可以使用以下命令将指南克隆到本地：
+Wiki 上的内容与仓库同步。如果想要离线查看指南，可以使用以下命令将指南克隆到本地：
 
 ```shell
-$ git clone https://github.com/NKID00/GuideToKSPModMaking.wiki.git
+$ git clone https://github.com/NKID00/GuideToKSPModMaking.git
 ```
 
 如果发现错误或者遇到问题，欢迎提交 [Issue](https://github.com/NKID00/GuideToKSPModMaking/issues) 或者 [Pull Request](https://github.com/NKID00/GuideToKSPModMaking/pulls)。
